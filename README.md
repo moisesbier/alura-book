@@ -21,8 +21,6 @@ Olá, bem-vindo ao meu projeto de responsividade da Alura, realizado em conjunto
 #### Linkedin: https://www.linkedin.com/in/moisesbier/
 
 ![Tela primária](https://i.imgur.com/krc46iB.png)
-
-![Tela intermediária](https://i.imgur.com/bPvZSwY.png)
-
+![Tela intermediária](https://i.imgur.com/n8RGniv.png)
 ![Tela final](https://i.imgur.com/XedwxjW.png)
 

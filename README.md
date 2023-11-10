@@ -10,7 +10,7 @@ Olá, bem-vindo ao meu projeto de responsividade da Alura, realizado em conjunto
 
 * Figma
 
-* Flexbox
+* Flex-box
 
 * SwiperJS
 
@@ -32,7 +32,5 @@ Olá, bem-vindo ao meu projeto de responsividade da Alura, realizado em conjunto
 <img src="https://i.imgur.com/lXpsVAy.jpg" width="300px"/>
 <img src="https://i.imgur.com/wg7OrzC.jpg" width="300px"/>
 
-```
-Versão final
-```
+> Verão final
 

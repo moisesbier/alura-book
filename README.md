@@ -1,6 +1,6 @@
 # Alura Book
 
-Olá, bem-vindo ao meu projeto de responsividade da Alura, realizado em conjunto com a instrutora Mônica Mazzochi Hillman.
+Olá, bem-vindo ao meu projeto de responsividade da Alura, realizado em conjunto com a professora Mônica Mazzochi Hillman.
 
 ## Ferramentas utilizadas:
 
@@ -31,4 +31,8 @@ Olá, bem-vindo ao meu projeto de responsividade da Alura, realizado em conjunto
 <img src="https://i.imgur.com/9EhPrKs.jpg" width="300px"/>
 <img src="https://i.imgur.com/lXpsVAy.jpg" width="300px"/>
 <img src="https://i.imgur.com/wg7OrzC.jpg" width="300px"/>
+
+```
+Versão final
+```
 
